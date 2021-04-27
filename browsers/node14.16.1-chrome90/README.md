@@ -9,7 +9,7 @@ node version:    v14.16.1
 npm version:     6.14.12
 yarn version:    1.22.10
 debian version:  10.8
-Chrome version:  Google Chrome 89.0.4389.72
+Chrome version:  Google Chrome 90.0.4430.93
 git version:     git version 2.20.1
 whoami:          root
 ```
